@@ -1,2 +1,4 @@
-# Chrono-vision-
-ChronoVision is an innovative project designed to create a time-based visualization tool using hash maps and hash sets. This project aims to develop a system that can efficiently store, retrieve, and visualize temporal data, showcasing the chronological progression of events or states in an intuitive and interactive manner
+# ChronoVision
+ChronoVision is an advanced image recognition system designed to predict the age of individuals from given images. Utilizing the power of Convolutional Neural Networks (CNNs) and implemented in Python with OpenCV, this project delivers accurate age predictions by analyzing facial features.
+# Link for Datasets:
+https://drive.google.com/drive/folders/12jXKdXJU-VJVI5CGbJra7KbRWqxOE1YB?usp=sharing
